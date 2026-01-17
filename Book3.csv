@@ -1,4 +1,4 @@
-Column1,Australia ;  Employed total ;  Persons ;
+Date,TotalEmployedAustralia
 Jul-1991,7583.0
 Aug-1991,7620.7
 Sep-1991,7713.2
@@ -412,3 +412,4 @@ Aug-2025,14543.3
 Sep-2025,14607.0
 Oct-2025,14666.8
 Nov-2025,14724.3
+
